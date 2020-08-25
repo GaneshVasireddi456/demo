@@ -1,0 +1,9 @@
+staging
+----------------
+*git init(to initialise git)
+*git add (to add our files to repository)
+*ls -a(to check files list)
+*git status(to check status that is which files are stagging area)
+*git rm --cached filename(to untrack)
+*git commit -m"commit message"(ofter commit it generate a sha key(secure hash algorithm)sha if for version control)
+*git log(to know the person details of who commited that file)
